@@ -1,5 +1,5 @@
-# Transformando-la-Educaci-n-Superior-con-IA
-Este proyecto tiene como objetivo desarrollar un sistema de trazabilidad para monitorizar y analizar el desempeño académico de los estudiantes desde su admisión hasta su graduación. Usando técnicas de análisis de datos y modelos predictivos, el proyecto busca identificar factores críticos que influyen en el éxito o el abandono académico, permitiendo la implementación de intervenciones tempranas y efectivas.
+# TrayectorIA UNI
+Este proyecto tiene como objetivo desarrollar un sistema de trazabilidad para monitorizar y analizar el desempeño académico de los estudiantes desde su admisión hasta su graduación. Usando técnicas de análisis de datos y modelos predictivos, el proyecto busca identificar factores críticos que influyen en el éxito o el abandono académico, permitiendo la implementación de intervenciones tempranas y efectivas. Posteriormente, mediante el uso de Inteligencia Artificial, generar recomendaciones y programas personalizados para abordar a aquellos estudiantes con mayor probabilidad de deserción a fin de mejorar su calidad educativa y volver a traerlos al camino del éxito.
 
 Descripción de Carpetas Principales
 
@@ -8,32 +8,26 @@ Descripción de Carpetas Principales
   - Configuracion_Entorno: Instrucciones para configurar el entorno de desarrollo en Visual Studio Code (VSC) usando Python.
   - Descripcion_Desercion: Notebooks y visualizaciones iniciales para entender las características de la deserción.
   - Limpieza_Datos: Procesos de limpieza y transformación de los datos.
-  - Clusterizacion: Análisis de clusterización para segmentar estudiantes en grupos homogéneos.
 
 - 02_Modelos_Predictivos: Incluye el desarrollo, validación y generación de predicciones mediante modelos de machine learning.
 
   - Desarrollo_Modelos: Notebooks para el desarrollo de modelos como regresión logística y árboles de decisión.
   - Validacion_Modelos: Evaluación de los modelos usando métricas como precisión, recall y F1-score.
-  - Predicciones: Generación de predicciones y priorización de intervenciones.
-
+  
 - 03_Visualizacion_Comunicacion: Dedicado a la visualización de los resultados en Power BI y la creación del informe final.
 
   - PowerBI: Archivos de configuración y dashboards interactivos en Power BI.
   - Informe_Final: Informe final del proyecto en PDF y presentación de resultados.
   - Publicaciones: Archivos relacionados con la publicación en plataformas requeridas.
 
-- 04_Documentacion_Administrativa: Documentos administrativos como la propuesta inicial, cronograma del proyecto y actas de reuniones.
+- 04_Documentacion_Administrativa: Resumen de las fases del proyecto.
 
 - 05_Datos: Almacena los datos utilizados en el proyecto.
 
   - Datos_Crudos: Archivos de datos originales sin procesar.
-  - Datos_Procesados: Archivos de datos después de la limpieza y transformación.
-
-- 06_Scripts_Utilidades: Scripts de Python para análisis de datos, modelos predictivos y visualización.
-
-  - Analisis_Datos: Scripts para el análisis descriptivo y de clusterización.
-  - Modelos_Predictivos: Scripts para la implementación de modelos de machine learning.
-  - Visualizaciones: Scripts para la integración de resultados en Power BI.
+  - Datos_Procesados: Archivos de datos después de la limpieza y transformación a nivel intermedio.
+  - Datos_Finales: Archivos de datos después de los ajustes totales, listas para utilizar en modelos y visualizaciones.
+  - Imágenes: Archivos de imágenes utilizadas en el dashboard.
 
 Requisitos Previos
 
@@ -72,4 +66,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 5. Crea un Pull Request.
 
 Contacto
-Para cualquier duda o sugerencia, por favor contacta a [tu nombre o equipo] en [tu correo electrónico].
+Para cualquier duda o sugerencia, por favor contacta a Omar Cano Contreras en omarcanoc23@gmail.com o https://www.linkedin.com/in/omarcanoc23/.
