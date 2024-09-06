@@ -1,7 +1,11 @@
-# TrayectorIA UNI
+# TrayectorIA UNI 💡
 Este proyecto tiene como objetivo desarrollar un sistema de trazabilidad para monitorizar y analizar el desempeño académico de los estudiantes desde su admisión hasta su graduación. Usando técnicas de análisis de datos y modelos predictivos, el proyecto busca identificar factores críticos que influyen en el éxito o el abandono académico, permitiendo la implementación de intervenciones tempranas y efectivas. Posteriormente, mediante el uso de Inteligencia Artificial, generar recomendaciones y programas personalizados para abordar a aquellos estudiantes con mayor probabilidad de deserción a fin de mejorar su calidad educativa y volver a traerlos al camino del éxito.
 
-Descripción de Carpetas Principales
+![image](https://github.com/user-attachments/assets/ca93ffd7-c26f-47a6-9783-0dc0052086b8)
+![image](https://github.com/user-attachments/assets/6aa43b85-7961-4216-9b9d-ac55544cb279)
+
+
+Descripción de Carpetas Principales 📃
 
 - 01_Diagnostico_Preparacion: Contiene los pasos iniciales del proyecto, incluyendo la configuración del entorno, análisis descriptivo, limpieza de datos, y análisis de clusterización.
 
@@ -20,7 +24,7 @@ Descripción de Carpetas Principales
   - Informe_Final: Informe final del proyecto en PDF y presentación de resultados.
   - Publicaciones: Archivos relacionados con la publicación en plataformas requeridas.
 
-- 04_Documentacion_Administrativa: Resumen de las fases del proyecto.
+- 04_Documentacion: Resumen de las fases del proyecto.
 
 - 05_Datos: Almacena los datos utilizados en el proyecto.
 
@@ -29,7 +33,7 @@ Descripción de Carpetas Principales
   - Datos_Finales: Archivos de datos después de los ajustes totales, listas para utilizar en modelos y visualizaciones.
   - Imágenes: Archivos de imágenes utilizadas en el dashboard.
 
-Requisitos Previos
+Requisitos Previos 📝
 
 - Herramientas Necesarias
   Visual Studio Code (VSC): Editor de código recomendado.
@@ -41,7 +45,7 @@ Requisitos Previos
   Para instalar las bibliotecas necesarias, ejecuta el siguiente comando en tu terminal:
   pip install -r requirements.txt
 
-Instrucciones de Uso
+Instrucciones de Uso 📰
 
 - Configuración del Entorno
 
@@ -56,7 +60,7 @@ Instrucciones de Uso
 3. Conecta el proyecto a Power BI y crea visualizaciones interactivas siguiendo las instrucciones en 03_Visualizacion_Comunicacion.
 4. Genera el informe final y publica los resultados en las plataformas requeridas.
 
-Contribuciones
+Contribuciones 📊
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 1. Haz un fork del repositorio.
