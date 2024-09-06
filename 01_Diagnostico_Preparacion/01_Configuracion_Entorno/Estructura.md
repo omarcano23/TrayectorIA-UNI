@@ -1,8 +1,7 @@
 Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
 
-/Py Track Analitico UNI
-│
+/Py TrayectorIA UNI
 ├── /01_Diagnostico_Preparacion
 │ ├── /01_Configuracion_Entorno
 │ │ └── README.md # Instrucciones de configuración del entorno en VSC y Python
